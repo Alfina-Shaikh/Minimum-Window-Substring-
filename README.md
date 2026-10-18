@@ -27,7 +27,7 @@ Complexity Analysis
 
 Files
 
-- "solution.c" — C implementation of the solution.
+- "Solution.c" — C implementation of the solution.
 - "1_Tech_Interview.pdf" — Original problem statement, shared with permission.
 
 Example
